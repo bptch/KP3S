@@ -1,3 +1,4 @@
+![alt text](https://github.com/nehilo/kp3s/blob/master/photo_2020-10-06_00-54-15.jpg?raw=true)
 Прошивка Marlin 2.0.7 для KP3S
 
 ⭕️ В прошивке включен Junction Deviations
