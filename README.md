@@ -1,4 +1,4 @@
-Прошивка Marlin 2.0.7 для KP3S
+Прошивка Marlin 2.0.7.1 для KP3S
 
 ⭕️ В прошивке включен Junction Deviations
 
