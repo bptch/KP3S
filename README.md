@@ -1,4 +1,4 @@
-![alt text](https://github.com/nehilo/kp3s/blob/master/logo%20kp3s.png?raw=true)
+![center][alt text](https://github.com/nehilo/kp3s/blob/master/logo%20kp3s.png?raw=true)
 
 Прошивка Marlin 2.0.7.2 для KP3S
 
