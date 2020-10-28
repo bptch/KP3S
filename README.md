@@ -1,6 +1,7 @@
+# Marlin 2.0.7.2 KP3S
+
 ![alt text](https://github.com/nehilo/kp3s/blob/master/logo%20kp3s.png?raw=true)
 
-Прошивка Marlin 2.0.7.2 для KP3S
 
 ⭕️ Добавлена функция подсветки рабочей области. Использовать LED - ленту или светодиоды на 5V. 
 
