@@ -33,4 +33,6 @@
 
 Другую полезную информацию можно найти в чате  https://cutt.ly/Cgow7vL
 
+Marlin Bltouch https://github.com/nehilo/KP3S-BLtouch
+
 ![alt text](https://github.com/nehilo/kp3s/blob/master/photo_2020-10-06_00-54-15.jpg?raw=true)
