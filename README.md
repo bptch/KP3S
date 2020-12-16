@@ -3,6 +3,7 @@
 
 
 New-
+
 ⭕️ Пауза во время печати
 
 ⭕️ Замена филамента во время печати
@@ -18,7 +19,8 @@ Bmg/Titan E 2209 - 404.5 шагов
 Bmg/Titan E 2225 - 810 шагов
 
 ⭕️ Работа Linear Advanced на драйверах TMC2225 - необходимо замкнуть пин SPREAD на VIO (ЭКСПЕРИМЕНТАЛЬНЫЙ РЕЖИМ)
-![alt text]https://github.com/nehilo/KP3S/blob/master/photo_2020-12-16_16-32-35.jpg?raw=true)
+
+![alt text](https://github.com/nehilo/KP3S/blob/master/photo_2020-12-16_16-32-35.jpg?raw=true)
 
 
 
