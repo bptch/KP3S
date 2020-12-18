@@ -20,6 +20,8 @@ Bmg/Titan E TMC 2209 - 404.5 шагов
 
 Bmg/Titan E TMC 2225 - 810 шагов
 
+⭕️ Включать и выключать принтер строго с SD-картой
+
 ⭕️ Работа Linear Advanced на драйверах TMC2225 - необходимо замкнуть пин SPREAD на VIO (ЭКСПЕРИМЕНТАЛЬНЫЙ РЕЖИМ)
 
 ![alt text](https://github.com/nehilo/KP3S/blob/master/photo_2020-12-16_16-32-35.jpg?raw=true)
