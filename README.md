@@ -1,6 +1,9 @@
 # Marlin 2.0.7.2 KP3S
 ![alt text](https://github.com/nehilo/kp3s/blob/master/logo%20kp3s.png?raw=true)
 
+❗️❗️❗️ Включать и выключать принтер строго с SD-картой
+
+❗️❗️❗️ Не удалять системный файл ROBIN_NANO c SD-карты
 
 New-
 
@@ -19,8 +22,6 @@ New-
 Bmg/Titan E TMC 2209 - 404.5 шагов
 
 Bmg/Titan E TMC 2225 - 810 шагов
-
-⭕️ Включать и выключать принтер строго с SD-картой
 
 ⭕️ Работа Linear Advanced на драйверах TMC2225 - необходимо замкнуть пин SPREAD на VIO (ЭКСПЕРИМЕНТАЛЬНЫЙ РЕЖИМ)
 
