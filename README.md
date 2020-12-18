@@ -1,10 +1,6 @@
 # Marlin 2.0.7.2 KP3S
 ![alt text](https://github.com/nehilo/kp3s/blob/master/logo%20kp3s.png?raw=true)
 
-❗️❗️❗️ Включать и выключать принтер строго с SD-картой
-
-❗️❗️❗️ Не удалять системный файл ROBIN_NANO и EEPROM.DAT c SD-карты
-
 New-
 
 ⭕️ Пауза во время печати
