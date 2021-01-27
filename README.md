@@ -1,6 +1,10 @@
 # Marlin 2.0.7.2 KP3S
 ![alt text](https://github.com/nehilo/kp3s/blob/master/logo%20kp3s.png?raw=true)
 
+
+ПРОШИВКА С РУССКИМ ЯЗЫКОМ В АРХИВЕ RU.ZIP
+
+
 ⭕️ Пауза во время печати
 
 ⭕️ EEPROM переведен на отдельную внутреннюю память
